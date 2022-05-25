@@ -2,8 +2,12 @@
 # RERERENCE LIST 
 
 
+This list contain certain project that I was working on it completely, 
+or partially during my jobs of Web Developer and my freelance activity.
 
-## E-COMMERCE SITES
+
+
+## E-commerce sites
 
 https://www.lesthete.com <br>
 Dev Front Fullstack - Prestashop / Vega stiac 
