@@ -12,10 +12,10 @@ https://www.offshoes.fr/fr/ <br>
 Dev Frontend Prestashop Fullstack / Vega stiac 
 
 https://fabricegillotte.com/ <br>
-Prestashop - Fonction Frontend / Dicolor
+Prestashop - Frontend / Dicolor
 
 https://www.clubcinglesventoux.org/ <br>
-Frontend et full stack - Wordpress / Dicolor 
+Frontend - full stack - Wordpress / Dicolor 
 
 
 https://easy-zest.com/ <br>
