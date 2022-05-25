@@ -11,6 +11,9 @@ Dev Front Fullstack - Prestashop / Vega stiac
 https://www.offshoes.fr/fr/ <br>
 Dev Frontend Prestashop Fullstack / Vega stiac 
 
+https://voilastbarth-shop.com/fr/ <br>
+Dev Frontend Fullstack Prestashop / Vega Stiac
+
 https://fabricegillotte.com/ <br>
 Prestashop - Frontend / Dicolor
 
