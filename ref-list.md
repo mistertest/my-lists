@@ -5,7 +5,7 @@
 
 ## E-COMMERCE SITES
 
-https://www.lesthete.com/fr/ <br>
+https://www.lesthete.com <br>
 Dev Front Fullstack - Prestashop / Vega stiac 
 
 https://www.offshoes.fr/fr/ <br>
