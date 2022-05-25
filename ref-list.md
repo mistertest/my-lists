@@ -21,7 +21,7 @@ https://easy-zest.com/ <br>
 Prestashop - Fullstack / Dicolor
 
 https://www.terresdecafe.com/<br>
-Prestshop  / Freelance - Fullstack
+Prestshop Fullstack  / Freelance 
 
 https://www.shoplissage.com/<br>
 Prestashop / Freelance
