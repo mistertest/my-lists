@@ -2,30 +2,33 @@
 # RERERENCE LIST 
 
 
-Voici quelques références, je ne peux pas tout mettre , j'ai travaillé et suis intervenue sur plus d'une centaine de sites. 
+
+# E-COMMERCE SITES
 
 https://www.lesthete.com/fr/ <br>
-Chez Vega stiac - Dev Front Fullstack - Prestashop
+Dev Front Fullstack - Prestashop / Vega stiac 
 
 https://www.offshoes.fr/fr/ <br>
-Chez Vega stiac - Dev Frontend Prestashop Fullstack
+Dev Frontend Prestashop Fullstack / Vega stiac 
 
 https://fabricegillotte.com/ <br>
-( Chez Dicolor - travail en équipe de 3 - Prestashop - Fonction Frontend )
+Prestashop - Fonction Frontend / Dicolor
 
 https://www.clubcinglesventoux.org/ <br>
-Chez Dicolor - Frontend et full stack - Wordpress
+Frontend et full stack - Wordpress / Dicolor 
 
 
 https://easy-zest.com/ <br>
-(Actuellement en maintenance) <br>
-Prestashop - Front
+Prestashop - Fullstack / Dicolor
 
 https://www.terresdecafe.com/<br>
-Prestshop - Freelance - Fullstack
+Prestshop  / Freelance - Fullstack
 
 https://www.shoplissage.com/<br>
-Prestashop - Freelance
+Prestashop / Freelance
+
+https://www.passionfroid.fr/ <br>
+Magento  Frontend / Ysance
 
 
 
