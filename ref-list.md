@@ -44,5 +44,8 @@ Joomla fullstack - Freelance
 https://www.clubcinglesventoux.org/ <br>
 Frontend - full stack - Wordpress / Dicolor 
 
+https://www.associationfigure2style.com/ <br>
+Joomla fullstack - Freelance
+
 
 
