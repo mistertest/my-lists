@@ -2,7 +2,7 @@
 # RERERENCE LIST 
 
 
-This list contain certain project that I was working on it completely, 
+This list contain certain project that I was working on it completely,<br>
 or partially during my jobs of Web Developer and my freelance activity.
 
 
