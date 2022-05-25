@@ -14,10 +14,6 @@ Dev Frontend Prestashop Fullstack / Vega stiac
 https://fabricegillotte.com/ <br>
 Prestashop - Frontend / Dicolor
 
-https://www.clubcinglesventoux.org/ <br>
-Frontend - full stack - Wordpress / Dicolor 
-
-
 https://easy-zest.com/ <br>
 Prestashop - Fullstack / Dicolor
 
@@ -44,5 +40,9 @@ joomla Fullstack - Freelance
 
 https://www.avocatparis.org/ <br>
 Joomla fullstack - Freelance
+
+https://www.clubcinglesventoux.org/ <br>
+Frontend - full stack - Wordpress / Dicolor 
+
 
 
