@@ -2,7 +2,7 @@
 # REFERENCE LIST 
 
 
-This list contain certain project that I was working on it completely,<br>
+This list contain certain project that I was working on it, completely<br>
 or partially during my jobs of Web Developer and my freelance activity.<br>
 This list is not already completed, it will be updating progressively.
 
