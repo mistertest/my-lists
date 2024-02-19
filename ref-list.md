@@ -11,19 +11,19 @@ This list is not already completed, it will be updating progressively.
 ## E-commerce sites
 
 https://www.lesthete.com <br>
-Dev Front Fullstack - Prestashop / Vega stiac 
+Dev Front Fullstack - Prestashop / Salarié - Vega stiac 
 
 https://www.offshoes.fr/fr/ <br>
-Dev Frontend Prestashop Fullstack / Vega stiac 
+Dev Frontend Prestashop Fullstack / Salarié - Vega stiac 
 
 https://voilastbarth-shop.com/fr/ <br>
-Dev Frontend Fullstack Prestashop / Vega Stiac
+Dev Frontend Fullstack Prestashop / Salarié - Vega Stiac
 
 https://fabricegillotte.com/ <br>
-Prestashop - Frontend / Dicolor
+Prestashop - Frontend / Salarié - Dicolor
 
 https://easy-zest.com/ <br>
-Prestashop - Fullstack / Dicolor
+Prestashop - Fullstack / Salarié - Dicolor
 
 https://www.terresdecafe.com/<br>
 Prestshop Fullstack  / Freelance 
@@ -32,7 +32,7 @@ https://www.shoplissage.com/<br>
 Prestashop / Freelance
 
 https://www.passionfroid.fr/ <br>
-Magento  Frontend / Ysance
+Magento  Frontend / Salarié - Ysance
 
 https://www.ecig-zen.com/<br>
 Prestashop Fullstack /  Freelance
@@ -53,7 +53,7 @@ https://www.avocatparis.org/ <br>
 Joomla fullstack - Freelance
 
 https://www.clubcinglesventoux.org/ <br>
-Frontend - full stack - Wordpress / Dicolor 
+Wordpress - full stack - / Salarié - Dicolor 
 
 https://www.associationfigure2style.com/ <br>
 Joomla fullstack - Freelance
