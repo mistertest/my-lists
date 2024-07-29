@@ -87,8 +87,8 @@ https://www.youtube.com/watch?v=S4f6XYHYApQ
 
 
 SIDE PROJECTS <br>
-https://github.com/mistertest/xcloud-shield
-https://github.com/mistertest/cloud-choice
+https://github.com/mistertest/xcloud-shield<br>
+https://github.com/mistertest/cloud-choice<br>
 
 
 
