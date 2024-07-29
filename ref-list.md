@@ -79,7 +79,10 @@ https://www.journaldunet.com/retail/1145120-menlook-lance-georges-son-service-en
 
 Chaine Youtube Menlook <br>
 
-https://www.youtube.com/@menlook/videos
+https://www.youtube.com/@menlook/videos <br>
+
+Interview de Marc Menacé (Fondateur de Menlokk) <br>
+https://www.youtube.com/watch?v=S4f6XYHYApQ
 
 
 
