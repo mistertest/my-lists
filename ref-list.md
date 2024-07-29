@@ -71,12 +71,12 @@ https://web.archive.org/web/20160114105128/http://www.georgesprive.com/
 Georges Privé dans lms médias <br>
 
 
-https://fr.fashionnetwork.com/news/Georges-le-service-de-styliste-prive-de-menlook,436641.html
-https://laboxdumois.fr/box/georges-prive.html
-https://www.relationclientmag.fr/Thematique/strategies-1255/Breves/Menlook-com-lance-service-styliste-prive-246531.htm
-https://fashionunited.fr/actualite/retail/menlookcom-cree-un-service-de-stylisme-prive/201410168485
-https://www.lexpress.fr/styles/plaisirs/mode/menlook-lance-georges-son-service-de-styliste-prive_1612690.html
-https://www.journaldunet.com/retail/1145120-menlook-lance-georges-son-service-en-ligne-de-styliste-prive/
+https://fr.fashionnetwork.com/news/Georges-le-service-de-styliste-prive-de-menlook,436641.html<br>
+https://laboxdumois.fr/box/georges-prive.html<br>
+https://www.relationclientmag.fr/Thematique/strategies-1255/Breves/Menlook-com-lance-service-styliste-prive-246531.htm<br>
+https://fashionunited.fr/actualite/retail/menlookcom-cree-un-service-de-stylisme-prive/201410168485<br>
+https://www.lexpress.fr/styles/plaisirs/mode/menlook-lance-georges-son-service-de-styliste-prive_1612690.html<br>
+https://www.journaldunet.com/retail/1145120-menlook-lance-georges-son-service-en-ligne-de-styliste-prive/<br>
 
 Chaine Youtube Menlook <br>
 
