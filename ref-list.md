@@ -65,6 +65,7 @@ GEORGES PRIVE BY MNENLOOK <br>
 
 
 https://web.archive.org/web/20160114105128/http://www.georgesprive.com/
+<br>
 
 
 Georges Privé dans lms médias <br>
@@ -83,6 +84,12 @@ https://www.youtube.com/@menlook/videos <br>
 
 Interview de Marc Menacé (Fondateur de Menlokk) <br>
 https://www.youtube.com/watch?v=S4f6XYHYApQ
+
+
+SIDE PROJECTS <br>
+https://github.com/mistertest/xcloud-shield
+https://github.com/mistertest/cloud-choice
+
 
 
 
