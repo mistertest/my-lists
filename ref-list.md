@@ -77,7 +77,8 @@ https://fashionunited.fr/actualite/retail/menlookcom-cree-un-service-de-stylisme
 https://www.lexpress.fr/styles/plaisirs/mode/menlook-lance-georges-son-service-de-styliste-prive_1612690.html
 https://www.journaldunet.com/retail/1145120-menlook-lance-georges-son-service-en-ligne-de-styliste-prive/
 
-Chaine Youtube Menlook
+Chaine Youtube Menlook <br>
+
 https://www.youtube.com/@menlook/videos
 
 
