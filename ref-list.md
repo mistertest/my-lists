@@ -59,6 +59,18 @@ https://www.associationfigure2style.com/ <br>
 Joomla fullstack - Freelance
 
 
+
+
+
+## SIDE PROJECTS <br>
+Projets perso et comunautaires/Veille Techno <br>
+https://github.com/mistertest/xcloud-shield<br>
+https://github.com/mistertest/cloud-choice<br>
+
+
+
+
+
 ## AWARDS E-CCOMMERCE 2015
 
 GEORGES PRIVE BY MNENLOOK <br>
@@ -84,12 +96,6 @@ https://www.youtube.com/@menlook/videos <br>
 
 Interview de Marc Menacé (Fondateur de Menlokk) <br>
 https://www.youtube.com/watch?v=S4f6XYHYApQ
-
-
-SIDE PROJECTS <br>
-Projets perso et comunautaires/Veille Techno <br>
-https://github.com/mistertest/xcloud-shield<br>
-https://github.com/mistertest/cloud-choice<br>
 
 
 
