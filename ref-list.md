@@ -80,7 +80,7 @@ https://web.archive.org/web/20160114105128/http://www.georgesprive.com/
 <br>
 
 
-Georges Privé dans lms médias <br>
+Georges Privé dans la presse<br>
 
 
 https://fr.fashionnetwork.com/news/Georges-le-service-de-styliste-prive-de-menlook,436641.html<br>
